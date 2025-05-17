@@ -1,7 +1,7 @@
 # Diognio – Grow Together
 
-Diognio is a collective of developers, designers, and digital product enthusiasts dedicated to building, refining, and scaling innovative solutions. With a focus on collaboration and hands-on execution, we bridge creativity and technology to deliver real-world impact.
+Diognio is a community of developers, designers, and digital product lovers working to create, iterate, and grow cutting-edge solutions. Centered on bootstrapping and collaboration, we bridge the gap between technology and innovation to create meaningful impact.
 
-Our community thrives on shared knowledge, iterative learning, and a results-driven mindset—whether through collaborative projects or skill-driven challenges. By combining diverse expertise, we push boundaries in tech, design, and product growth, fostering both individual and collective progress.
+Our community functions on shared knowledge, spiral learning, and outcome-thinking—whether by way of group projects or skill-challenges. Through the fusion of diverse expertise, we overcome boundaries in tech, design, and product development, catalyzing individual as well as collective growth.
 
 At Diognio, we don’t just adapt to the digital landscape; we shape it.
