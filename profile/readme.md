@@ -1,7 +1,7 @@
-# Diognio - Grow Together
+# Diognio – Grow Together
 
-Diognio is a community of tech-savvy individuals, primarily from Gen Z, focused on expanding technical knowledge, fostering collaboration, and engaging in both competitive and cooperative projects. Founded in 2023 by [@ramenaru](https://github.com/ramenaru), along with [@kaisAbiyyi](https://github.com/KaisAbiyyi) and [@rmxburhan](https://github.com/rmxburhan), Diognio has grown steadily into a structured and productive environment for skill development and innovation.
+Diognio is a collective of developers, designers, and digital product enthusiasts dedicated to building, refining, and scaling innovative solutions. With a focus on collaboration and hands-on execution, we bridge creativity and technology to deliver real-world impact.
 
-The community emphasizes practical learning, problem-solving, and real-world applications, maintaining a balance between individual growth and collective progress. Diognio operates with a results-driven approach, prioritizing efficiency and meaningful contributions in the tech space.
+Our community thrives on shared knowledge, iterative learning, and a results-driven mindset—whether through collaborative projects or skill-driven challenges. By combining diverse expertise, we push boundaries in tech, design, and product growth, fostering both individual and collective progress.
 
-Since its inception, Diognio has continued to evolve, maintaining a reputation for competence and forward-thinking in its field.
+At Diognio, we don’t just adapt to the digital landscape; we shape it.
